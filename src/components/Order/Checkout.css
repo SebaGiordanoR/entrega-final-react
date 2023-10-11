@@ -1,0 +1,19 @@
+form {
+    background-color: #f5f5f5;
+}
+
+label {
+    font-weight: bold;
+}
+
+.order {
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.7rem;
+    margin-top: 2em;
+}
+
+.error {
+    color: red;
+    font-weight: 600;
+}
